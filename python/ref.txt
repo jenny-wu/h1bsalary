@@ -6,3 +6,7 @@
 
 ## install packages
 pip install pandas
+
+## add geckodriver path
+export PATH=$PATH:~/bin/geckodriver
+echo $PATH
